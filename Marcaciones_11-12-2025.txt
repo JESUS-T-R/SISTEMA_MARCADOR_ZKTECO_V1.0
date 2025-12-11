@@ -1,0 +1,51 @@
+
+📋 Inicio de sincronización de asistencia
+____________________________________________________________________________________________________
+
+ Verificando conexión al dispositivo: 172.16.11.20 || RELOJ ENTRADA
+✅ Conexión exitosa
+Total registros: 73896
+------------------------------ Insertando registros en la base de datos local ----------------------
+🔄 desde 01/11/2025 (00:00:00) hasta 11/12/2025 (08:32:25)
+📥 Total de Registros insertados 6,966
+------------------------------ Insertando registros BD Cloud ---------------------------------------
+Verificando conexión a internet
+✅ Conexión exitosa
+🔄 Total enviados 1,000 de 6,966
+🔄 Total enviados 2,000 de 6,966
+🔄 Total enviados 3,000 de 6,966
+🔄 Total enviados 4,000 de 6,966
+🔄 Total enviados 5,000 de 6,966
+🔄 Total enviados 6,000 de 6,966
+🔄 Total enviados 6,966 de 6,966
+____________________________________________________________________________________________________
+
+⛔ Deteniendo...
+🛑 Sincronización interrumpida.
+____________________________________________________________________________________________________
+
+📋 Inicio de sincronización de asistencia
+____________________________________________________________________________________________________
+
+ Verificando conexión al dispositivo: 172.16.11.20 || RELOJ ENTRADA
+✅ Conexión exitosa
+Total registros: 73904
+------------------------------ Insertando registros en la base de datos local ----------------------
+🔄 desde 11/12/2025 (08:32:25) hasta 11/12/2025 (09:52:05)
+📥 Total de Registros insertados 8
+------------------------------ Insertando registros BD Cloud ---------------------------------------
+Verificando conexión a internet
+✅ Conexión exitosa
+🔄 Total enviados 8 de 8
+____________________________________________________________________________________________________
+
+📋 Inicio de sincronización de asistencia
+____________________________________________________________________________________________________
+
+ Verificando conexión al dispositivo: 172.16.11.20 || RELOJ ENTRADA
+✅ Conexión exitosa
+Total registros: 73904
+------------------------------ Insertando registros en la base de datos local ----------------------
+🔄 desde 11/12/2025 (09:52:05) hasta 11/12/2025 (09:54:01)
+📥 Total de Registros insertados 0
+____________________________________________________________________________________________________
