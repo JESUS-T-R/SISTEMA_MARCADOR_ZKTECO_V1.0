@@ -9,7 +9,7 @@ from Controllers.sync_controller import SyncController
 from Utils.helpers import extraer, extraer_icono, mostrar_splash
 from Views.app_view import MarcadorView, crear_lock, eliminar_lock
 
-# ────────── Ejecutar App ──────────
+# ────────── Ejecutar Apps ──────────
 if __name__ == "__main__":
     if not crear_lock():
         print("⚠ Ya hay una instancia ejecutándose.")
