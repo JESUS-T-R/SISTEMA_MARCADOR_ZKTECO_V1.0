@@ -46,7 +46,7 @@ class SyncController:
         def escribir():
             try:
                 if self.textbox.winfo_exists():
-                    self.textbox.configure(state='normal')
+                    self.textbox.configure(state='normalx')
                     self.textbox.insert("end", mensaje + end)
                     self.textbox.see("end")
                     self.textbox.configure(state='disabled')
