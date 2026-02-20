@@ -14,7 +14,7 @@ from zk import ZK
 from Utils.api_client import enviar_asistencia_api
 from Utils.helpers import fecha_valida, ping_host, redondear_timestamp
 
-
+# Controlador de sincronización
 class SyncController:
 
     def __init__(self, root, view, model_marcador, asistencia_model, notebook, textbox):
